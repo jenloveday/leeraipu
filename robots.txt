@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://odohheghom.gangnamcall.com/sitemap.xml
